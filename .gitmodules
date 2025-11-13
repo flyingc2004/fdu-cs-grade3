@@ -1,3 +1,6 @@
 [submodule "note/note"]
 	path = note/note
 	url = https://github.com/VagRant2333/Computer-Network-Note.git
+[submodule "Computer-Network-H--FDU-note-lab-PJ"]
+	path = Computer-Network-H--FDU-note-lab-PJ
+	url = https://github.com/VagRant2333/Computer-Network-H--FDU-note-lab-PJ.git

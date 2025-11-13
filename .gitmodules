@@ -1,0 +1,3 @@
+[submodule "note/note"]
+	path = note/note
+	url = https://github.com/VagRant2333/Computer-Network-Note.git
